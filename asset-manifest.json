@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/oscarpedia/static/css/main.dc2bff09.chunk.css",
+    "main.js": "/oscarpedia/static/js/main.c1dbf00e.chunk.js",
+    "main.js.map": "/oscarpedia/static/js/main.c1dbf00e.chunk.js.map",
+    "runtime-main.js": "/oscarpedia/static/js/runtime-main.a0ed80d8.js",
+    "runtime-main.js.map": "/oscarpedia/static/js/runtime-main.a0ed80d8.js.map",
+    "static/css/2.2894c9e2.chunk.css": "/oscarpedia/static/css/2.2894c9e2.chunk.css",
+    "static/js/2.009e0c5f.chunk.js": "/oscarpedia/static/js/2.009e0c5f.chunk.js",
+    "static/js/2.009e0c5f.chunk.js.map": "/oscarpedia/static/js/2.009e0c5f.chunk.js.map",
+    "index.html": "/oscarpedia/index.html",
+    "static/css/2.2894c9e2.chunk.css.map": "/oscarpedia/static/css/2.2894c9e2.chunk.css.map",
+    "static/css/main.dc2bff09.chunk.css.map": "/oscarpedia/static/css/main.dc2bff09.chunk.css.map",
+    "static/js/2.009e0c5f.chunk.js.LICENSE.txt": "/oscarpedia/static/js/2.009e0c5f.chunk.js.LICENSE.txt",
+    "static/media/boxicons.min.css": "/oscarpedia/static/media/boxicons.cbd149c5.ttf",
+    "static/media/footer-bg.67e95f05.jpg": "/oscarpedia/static/media/footer-bg.67e95f05.jpg",
+    "static/media/tmovie.67797e94.png": "/oscarpedia/static/media/tmovie.67797e94.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a0ed80d8.js",
+    "static/css/2.2894c9e2.chunk.css",
+    "static/js/2.009e0c5f.chunk.js",
+    "static/css/main.dc2bff09.chunk.css",
+    "static/js/main.c1dbf00e.chunk.js"
+  ]
+}
